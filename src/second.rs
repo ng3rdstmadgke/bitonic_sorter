@@ -1,3 +1,5 @@
+// first.rs + 配列の型を指定できるようにした
+
 use crate::SortOrder;
 
 pub fn sort<T: Ord>(x: &mut[T], order: &SortOrder) -> Result<(), String> {

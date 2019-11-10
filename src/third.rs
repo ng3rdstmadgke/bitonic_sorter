@@ -1,3 +1,5 @@
+// second.rs + コンパレータを指定できるようにした
+
 use std::cmp::Ordering;
 use crate::SortOrder;
 

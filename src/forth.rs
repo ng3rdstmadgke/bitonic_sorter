@@ -1,3 +1,5 @@
+// third + 並列実行できるようにした
+
 use std::cmp::Ordering;
 use crate::SortOrder;
 use rayon;
